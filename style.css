@@ -1,0 +1,29 @@
+body{
+    background: palevioletred;
+    color: yellow;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    background-color: pink;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+
+.name_of_object, #result_object_name, #result_object_accuracy{
+    color: burlywood;
+
+}
+
+.name_of_object{
+    background-color: palevioletred;
+}
+
+hr{
+    background-color: palevioletred;
+}
